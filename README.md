@@ -1,7 +1,5 @@
 # Sufyaan Jakate
  
-Lead Software Engineer at [re:cinq](https://github.com/re-cinq), where we build software factories for engineering teams.
- 
 I have spent the last eight years designing and shipping cloud, data and AI systems, mostly for enterprise clients.
  
 ## What I work on
