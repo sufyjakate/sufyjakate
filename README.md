@@ -1,6 +1,6 @@
 # Sufyaan Jakate
  
-I have spent the last eight years designing and shipping cloud, data and AI systems, mostly for enterprise clients.
+I have spent the last ten years designing and shipping cloud, data and AI systems, mostly for enterprise clients.
  
 ## What I work on
  
